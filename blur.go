@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"gocv.io/x/gocv"
 	"image"
 	"os"
+
+	"gocv.io/x/gocv"
 )
 
 func main() {

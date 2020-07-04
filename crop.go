@@ -2,9 +2,7 @@ package main
 
 import (
 	"fmt"
-	_ "fmt"
 	"os"
-	_ "os"
 )
 
 func main() {
